@@ -1,0 +1,3 @@
+Ello, My name is pigioty (not irl name), and um I program sometimes...
+
+If you want to contact me for a project, dm Pigioty#0001 on discord
