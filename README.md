@@ -1,3 +1,1 @@
-Ello, My name is pigioty (not irl name), and um I program sometimes...
-
-If you want to contact me for a project, dm Pigioty#0001 on discord
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
